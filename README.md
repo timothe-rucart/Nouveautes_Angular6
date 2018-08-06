@@ -1,6 +1,6 @@
 # Nouveautes Angular 6
 
-## Moteur de rendy "Ivy"
+## Moteur de rendu "Ivy"
 
   * Gain de performances : 
      * Compilation plus rapide.
